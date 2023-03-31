@@ -4,7 +4,7 @@
 Summary:	ARM Adaptive Scalable Texture Compression (ASTC) Encoder
 Name:		astc-encoder
 Version:	4.2.0
-Release:	1
+Release:	2
 License:	APL
 Group:		System/Libraries
 URL:		https://github.com/ARM-software/astc-encoder
